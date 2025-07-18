@@ -1,3 +1,28 @@
+Lost & Found Portal (PHP)
+
+This is a web-based Lost and Found Portal developed using PHP,MySQL,HTML,CSS,and Bootstrap.The portal allows users to report lost or found items and helps connect the rightful owners with finders.It includes admin control for verifying reports.
+
+---
+
+## 📌 Features
+
+- 🔍 Search lost/found items
+- 📢 Report lost items
+- 📤 Report found items
+- 👤 Admin login and dashboard
+- 🧾 View and manage user submissions
+- 📷 Upload and display item images
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend:HTML,CSS,Bootstrap
+- Backend:PHP
+- Database:MySQL
+- Web Server:XAMPP/Apache
+
+---
 
 How to run the Lost and Found Portal PHP
 
@@ -27,3 +52,7 @@ Email: tetsuer@t.com
 Password: Test@123
 
 Or Register a new user.
+
+
+
+
