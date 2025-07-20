@@ -24,9 +24,6 @@ This is a web-based Lost and Found Portal developed using PHP,MySQL,HTML,CSS,and
 
 ---
 
-![image alt](https://github.com/Gaurav30123/Lost-Found-Portal-PHP/blob/a5b71f1d7be7490feda17cd239200acad8769ff1/Screenshot%202025-07-20%20233648.png)
-
-
 
 How to run the Lost and Found Portal PHP
 
